@@ -5,10 +5,10 @@ Welcome to my GitHub profile! I'm passionate about building innovative software 
 ## 📚 Public Projects
 
 ### 🤖 AI & LLM Projects
-- **[not-your-therapist](https://github.com/ashishwebt/not-your-therapist)** - AI-powered conversational application
+- **[not-your-therapist](https://github.com/ashishwebt/not-your-therapist)** - AI-powered conversational application uses Ollama — your data does not leave your computer.
 
 ### 🏗️ Backend & Infrastructure
-- **[MiniOrm](https://github.com/ashishwebt/MiniOrm)** - Lightweight ORM for database operations
+- **[MiniOrm](https://github.com/ashishwebt/MiniOrm)** - MiniOrm — a lightweight ORM for database operations that demonstrates how an ORM works.
 
 ### 📊 Data & NLP
 - **[onto-extrac](https://github.com/ashishwebt/onto-extrac)** - Ontology extraction tool for NLP tasks
