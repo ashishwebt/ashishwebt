@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm passionate about building innovative software 
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: C#, Python, Rust, JavaScript
-- **Frameworks**: ASP.NET Core, Semantic Kernel
-- **Interests**: AI/LLM, Data Engineering, Backend Development, Open Source
+- **Languages**: C#, Python, Rust, JavaScript.
+- **Frameworks**: ASP.NET Core, MS Agent framework, Langchain.
+- **Interests**: AI/LLM, Data Engineering, Backend Development, Open Source.
 
 ## 📫 Let's Connect!
 Feel free to explore my repositories and reach out if you'd like to collaborate on any projects!
