@@ -1,4 +1,5 @@
 # Hi there! 👋 I'm Ashish
+[日本語](./README.ja.md)
 
 Welcome to my GitHub profile! I'm passionate about building innovative software solutions, exploring AI/LLM technologies, and contributing to open-source projects.
 
